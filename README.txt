@@ -1,4 +1,4 @@
-PORTFOLIO: https://ertbaran.github.io/portfolio/games
+PORTFOLIO PAGE: https://ertbaran.github.io/portfolio/games
 
 ____________________________________________________
 
