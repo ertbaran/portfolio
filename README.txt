@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 PORTFOLIO: https://ertbaran.github.io/portfolio/
 
 ____________________________________________________
